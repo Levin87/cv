@@ -1,2 +1,2 @@
 # cv
-My firtt html code
+My first html code
